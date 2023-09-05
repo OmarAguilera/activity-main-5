@@ -1,4 +1,4 @@
-# odoo excercise by Omar Silva Aguilera 👨‍💻🎨
+# odoo exercise by Omar Silva Aguilera 👨‍💻🎨
 This is the Odoo's exercise (final version). You can see the site on action directly here: Thank you :) The comments and feedback about the mockup are in this same repository in the comments.txt file. 
 But also on the readme file. Thank you ;)
 

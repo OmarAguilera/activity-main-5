@@ -1,12 +1,12 @@
 # odoo exercise by Omar Silva Aguilera 👨‍💻🎨
-This is the Odoo's exercise (final version). You can see the site on action directly here: Thank you :) The comments and feedback about the mockup are in this same repository in the comments.txt file. 
+This is the Odoo's exercise (final version). The comments and feedback about the mockup are in this same repository in the comments.txt file. 
 But also on the readme file. Thank you ;)
 
 
 First of all thank you for the opportunity, your support and your time for reviewing this work. 
 I have made it with love and passion.
 
-The indications of this activity, some observations were requested regarding the design. 
+On the instructions for this activity, some observations were requested regarding the design. 
 So the questions were:
 
 What do you find good/bad in this mock-up? 

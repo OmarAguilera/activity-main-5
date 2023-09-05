@@ -1,4 +1,4 @@
-# odoo excercise by Omar Silva Aguilera
+# odoo excercise by Omar Silva Aguilera 👨‍💻🎨
 This is the Odoo's exercise (final version). You can see the site on action directly here: Thank you :) The comments and feedback about the mockup are in this same repository in the comments.txt file. 
 But also on the readme file. Thank you ;)
 
@@ -14,7 +14,7 @@ What would you improve?
 What would you change?
 
 
-I've seen some beautiful design patterns here and I've actually opted to keep most of the design at 992px and above.
+I've seen some beautiful design patterns here and I've actually opted to keep most of the design at 992px and above. ¡I loved how the Awards cards look with the hover you asked me to do! 
 
 However, I would propose redesigning a part of the page to make it more dynamic, (maybe using the proximity Gestalt's principle). I have called the section im talking about as "Highlights section" (The one 
 that contains the information about tools, features, technology and easy to install).

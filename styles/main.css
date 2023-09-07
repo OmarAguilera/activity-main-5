@@ -1060,6 +1060,10 @@ header {
   color: rgba(255, 255, 255, 0.555);
 }
 @media(max-width: 1399px){
+  .card-number {
+    margin-right: 3rem;
+    font-size: 1.5rem; /* Change font size for card number on 992ps screen */
+  }
   .team-img {
     margin-bottom: 363px;
     margin-left: 284px;
@@ -1195,6 +1199,7 @@ header {
   .award-card img,.airbnb-card-b .airbnb-card-logo-b,.spotify-card-logo {
     max-width: 100px;
   }
+
 }
 
 @media (min-width: 1400px) {
